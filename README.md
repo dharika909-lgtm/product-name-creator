@@ -16,4 +16,4 @@ A simple Python program that generates a product name by combining a brand name 
 - User input handling
 
 ## Output
-https://freeimage.host/i/KSfNPMG
+https://iili.io/KSfNPMG.jpg
